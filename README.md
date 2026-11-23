@@ -1,2 +1,2 @@
 # YT-autoskip
-YT autoskip cool
+YT autoskip
